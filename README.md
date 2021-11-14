@@ -2,7 +2,7 @@
 Scrums about AI study
 
 ## ✔ Kaggle study
-practice ML/DL in Data Science Contest Platform
+practice ML/DL in Data Science Contest Platform<br>
 📚 [see detailed curriculum](https://gdscewha.tistory.com/category/%EC%8A%A4%ED%84%B0%EB%94%94/%EC%BA%90%EA%B8%80%20%ED%95%84%EC%82%AC)
 |topic|code|
 |:--:|:--:|
@@ -23,8 +23,8 @@ learn data mining & R code in EWHA (38605-01)
 |Ensemble-boost|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/esemble_boost.R)|
 |Ensemble-randomforest|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/esemble_randomforest.R)|
 
-## ✔ learn about seqencial data 
-learn data mining & R code in EWHA (38605-01)
+## ✔ sequencial datal
+learn about sequencial data & Model
 |topic|code|
 |:--:|:--:|
 |뉴스 기사 분류|[💻](https://github.com/JangAyeon/AI_Study/blob/main/sequencial_data/3_5_classifying_newswires.ipynb)|
