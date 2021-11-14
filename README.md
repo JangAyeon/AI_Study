@@ -13,7 +13,7 @@ practice ML/DL in Data Science Contest Platform
 learn data mining & R code in EWHA (38605-01)
 |topic|code|
 |:--:|:--:|
-|freq|[💻]()|
+|R basic : count word freq|[💻]()|
 |Association rules|[💻]|
 |decisiontree 1|[💻]|
 |decisontree 2|[💻]|
