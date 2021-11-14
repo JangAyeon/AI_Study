@@ -3,15 +3,16 @@ Scrums about AI study
 
 ## ✔ Kaggle study
 practice ML/DL in Data Science Contest Platform<br>
-📚 [see detailed curriculum](https://gdscewha.tistory.com/category/%EC%8A%A4%ED%84%B0%EB%94%94/%EC%BA%90%EA%B8%80%20%ED%95%84%EC%82%AC)
+📚 [study blog](https://gdscewha.tistory.com/category/%EC%8A%A4%ED%84%B0%EB%94%94/%EC%BA%90%EA%B8%80%20%ED%95%84%EC%82%AC)
 |topic|code|
 |:--:|:--:|
 |Titanic - Machine Learning from Disaster|[💻](https://github.com/JangAyeon/AI_Study/blob/main/Kaggle_Study/Titanic%20-%20Machine%20Learning%20from%20Disaster.ipynb)|
 |Porto Seguro’s Safe Driver Prediction|[💻](https://github.com/JangAyeon/AI_Study/blob/main/Kaggle_Study/Porto_Seguro%E2%80%99s_Safe_Driver_Prediction.ipynb)|
 |New York City Taxi Trip Duration|[💻](https://github.com/JangAyeon/AI_Study/blob/main/Kaggle_Study/New_York_City_Taxi_Trip_Duration.ipynb)|
 |Costa Rican Household Poverty Level Prediction|[💻](https://github.com/JangAyeon/AI_Study/blob/main/Kaggle_Study/Costa_Rican_Household_Poverty_Level_Prediction.ipynb)|
+
 ## ✔ data mining in R
-learn data mining & R code in EWHA (38605-01)
+learn data mining & R code in EWHA (38605-01) 
 |topic|code|
 |:--:|:--:|
 |R basic : word freq in script|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/word_freq.R)|
@@ -30,3 +31,12 @@ learn about sequencial data & Model
 |뉴스 기사 분류|[💻](https://github.com/JangAyeon/AI_Study/blob/main/sequencial_data/3_5_classifying_newswires.ipynb)|
 |keras 사용한 Word Embedding|[💻](https://github.com/JangAyeon/AI_Study/blob/main/sequencial_data/6_1_using_word_embeddings.ipynb)|
 |RNN & LSTM|[💻](https://github.com/JangAyeon/AI_Study/blob/main/sequencial_data/6_2_understanding_recurrent_neural_network.ipynb)|
+
+## ✔ Web Crawling
+leran how to scarp data in web site <br> 📚 [practice code](https://github.com/JangAyeon/AI_Study/tree/main/Crawling)
+
+## ✔ Machine Learning 
+파이썬 머신러닝 완벽 가이드 | 권철민 지음 | 위키북스 <br> 📚 [repo](https://github.com/JangAyeon/Python_Machine_Learning)
+
+## ✔ Python
+Do it! 점프 투 파이썬 | 박응용 지음 | 이지스퍼블리싱 <br> 📚 [repo](https://github.com/JangAyeon/Jump_To_Python)
