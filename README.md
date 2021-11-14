@@ -13,13 +13,13 @@ practice ML/DL in Data Science Contest Platform
 learn data mining & R code in EWHA (38605-01)
 |topic|code|
 |:--:|:--:|
-|R basic : count word freq|[💻]()|
-|Association rules|[💻]|
-|decisiontree 1|[💻]|
-|decisontree 2|[💻]|
-|Support Vector Machine|[💻]|
-|Ensemble-bagging|[💻]|
-|Ensemble-boost|[💻]|
-|Ensemble-randomforest|[💻]|
+|R basic : word freq in script|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/word_freq.R)|
+|Association rules|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/association.R)|
+|decisiontree 1|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/decisiontree_1.R)|
+|decisontree 2|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/decisiontree_2.R)|
+|Support Vector Machine|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/svm.R)|
+|Ensemble-bagging|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/esemble_bag.R)|
+|Ensemble-boost|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/esemble_boost.R)|
+|Ensemble-randomforest|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/esemble_randomforest.R)|
 
 
