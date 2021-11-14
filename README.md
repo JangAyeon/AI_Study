@@ -23,4 +23,10 @@ learn data mining & R code in EWHA (38605-01)
 |Ensemble-boost|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/esemble_boost.R)|
 |Ensemble-randomforest|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/esemble_randomforest.R)|
 
-
+## ✔ learn about seqencial data 
+learn data mining & R code in EWHA (38605-01)
+|topic|code|
+|:--:|:--:|
+|뉴스 기사 분류|[💻](https://github.com/JangAyeon/AI_Study/blob/main/sequencial_data/3_5_classifying_newswires.ipynb)|
+|keras 사용한 Word Embedding|[💻](https://github.com/JangAyeon/AI_Study/blob/main/sequencial_data/6_1_using_word_embeddings.ipynb)|
+|RNN & LSTM|[💻](https://github.com/JangAyeon/AI_Study/blob/main/sequencial_data/6_2_understanding_recurrent_neural_network.ipynb)|
