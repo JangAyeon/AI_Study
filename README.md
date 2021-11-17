@@ -33,7 +33,7 @@ learn about sequencial data & Model
 |RNN & LSTM|[💻](https://github.com/JangAyeon/AI_Study/blob/main/sequencial_data/6_2_understanding_recurrent_neural_network.ipynb)|
 
 ## ✔ Web Crawling
-leran how to scarp data in web site <br> 📚 [practice code](https://github.com/JangAyeon/AI_Study/tree/main/Crawling)
+learn how to scarp data in web site <br> 📚 [practice code](https://github.com/JangAyeon/AI_Study/tree/main/Crawling)
 
 ## ✔ Machine Learning 
 파이썬 머신러닝 완벽 가이드 | 권철민 지음 | 위키북스 <br> 📚 [repo](https://github.com/JangAyeon/Python_Machine_Learning)
