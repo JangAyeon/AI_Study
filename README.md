@@ -11,7 +11,7 @@ practice ML/DL in Data Science Contest Platform<br>
 |New York City Taxi Trip Duration|[💻](https://github.com/JangAyeon/AI_Study/blob/main/Kaggle_Study/New_York_City_Taxi_Trip_Duration.ipynb)|
 |Costa Rican Household Poverty Level Prediction|[💻](https://github.com/JangAyeon/AI_Study/blob/main/Kaggle_Study/Costa_Rican_Household_Poverty_Level_Prediction.ipynb)|
 |Zillow Prize: Zillow’s Home Value Prediction|[💻](https://github.com/JangAyeon/AI_Study/blob/main/Kaggle_Study/Zillow_Prize_Zillow%E2%80%99s_Home_Value_Prediction.ipynb)|
-|Zillow Prize: Zillow’s Home Value Prediction|[💻](.)|
+
 ## ✔ data mining in R
 learn data mining & R code in EWHA (38605-01) 
 |topic|code|
