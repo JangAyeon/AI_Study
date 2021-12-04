@@ -41,3 +41,4 @@ learn how to scarp data in web site <br> 📚 [practice code](https://github.com
 
 ## ✔ Python
 Do it! 점프 투 파이썬 | 박응용 지음 | 이지스퍼블리싱 <br> 📚 [repo](https://github.com/JangAyeon/Jump_To_Python)
+...
