@@ -24,6 +24,7 @@ learn data mining & R code in EWHA (38605-01)
 |Ensemble-bagging|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/esemble_bag.R)|
 |Ensemble-boost|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/esemble_boost.R)|
 |Ensemble-randomforest|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/esemble_randomforest.R)|
+|Timeseries-euclidean-DTW|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/timeseries_euclidean_DTW.R)|
 
 ## ✔ sequencial datal
 learn about sequencial data & Model
