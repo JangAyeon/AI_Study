@@ -25,7 +25,7 @@ learn data mining & R code in EWHA (38605-01)
 |Ensemble-boost|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/esemble_boost.R)|
 |Ensemble-randomforest|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/esemble_randomforest.R)|
 |Timeseries-euclidean-DTW|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/timeseries_euclidean_DTW.R)|
-
+|DBSCAN|[💻](https://github.com/JangAyeon/AI_Study/blob/main/data_mining_in_R/DBSCAN.R)|
 ## ✔ sequencial datal
 learn about sequencial data & Model
 |topic|code|
@@ -42,4 +42,4 @@ learn how to scarp data in web site <br> 📚 [practice code](https://github.com
 
 ## ✔ Python
 Do it! 점프 투 파이썬 | 박응용 지음 | 이지스퍼블리싱 <br> 📚 [repo](https://github.com/JangAyeon/Jump_To_Python)
-...
+
