@@ -104,3 +104,5 @@ for(i in order(dtw_distances)) {
   plot(ts_data_new[,i+1], type="l")
   lines(ts_data_new[,1], col="red")
 }
+
+
