@@ -1,5 +1,5 @@
 # AI Study
-Scrums about AI study
+Scrums about AI study..
 
 ## ✔ Kaggle study
 practice ML/DL in Data Science Contest Platform<br>
